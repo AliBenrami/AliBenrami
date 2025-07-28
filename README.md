@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Tenser flow**
 
-- 👨‍💻 All of my projects are available at [alibenrami.com](alibenrami.com)
+- 👨‍💻 All of my projects are available at [AliBenrami.com](https://www.alibenrami.com)
 
 - 💬 Ask me about **NextJS, flutter, and python**
 
 - 📫 How to reach me **abenrami06@gmail.com**
 
-- 📄 Know about my experiences [https://www.alibenrami.com/resume](https://www.alibenrami.com/resume)
+- 📄 Know about my experiences [AliBenrami.com/resume](https://www.alibenrami.com/resume)
 
 - ⚡ Fun fact **I hate types but prefer TS**
 

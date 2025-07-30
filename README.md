@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Benrami</h1>
-<h3 align="center">A passionate frontend developer from Dallas</h3>
+<h3 align="center">A passionate fullstack developer from Dallas</h3>
 
-- 🔭 I’m currently working on [Codemax](https://github.com/AliBenrami/codemax)
+- 🔭 I’m currently working on [vault](https://github.com/AliBenrami/vault)
 
 - 🌱 I’m currently learning **Tenser flow**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [AliBenrami.com/resume](https://www.alibenrami.com/resume)
 
-- ⚡ Fun fact **I hate types but prefer TS**
+- ⚡ Fun fact **I love shawarma ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
